@@ -1,3 +1,4 @@
+
 # CS402
 Two assignments from the Parallel and Distrobuted Systems Module
 <p>
@@ -15,3 +16,4 @@ This will tell you when it is expected to arrive and depart from Portarlington, 
 
 To run this application just compile as a Java application and open the HTML file it creates in your project folder.</p></p>
 
+![train_table](https://user-images.githubusercontent.com/53318295/118275102-e2b0fa80-b4bd-11eb-8beb-3aae747f608d.PNG)
